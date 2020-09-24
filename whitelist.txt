@@ -18,5 +18,3 @@
 @@||gvt2.com^
 @@||awstrack.me^
 @@||acompli.helpshift.com^
-
-10.0.0.20 *.cillin.pro
