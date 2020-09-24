@@ -1,0 +1,22 @@
+@@||aa.online-metrix.net^
+@@||ad.admitad.com^
+@@||ad.doubleclick.net^
+@@||api.segment.io^
+@@||best.aliexpress.com^
+@@||clk.tradedoubler.com^
+@@||clkuk.tradedoubler.com^
+@@||h.online-metrix.net^
+@@||img.alibaba.com^
+@@||reports.crashlytics.com^
+@@||s.click.aliexpress.com^
+@@||s.youtube.com^
+@@||thepiratebay.org^
+@@||tradetracker.com^
+@@||tradetracker.net^
+@@||gpsonextra.net^
+@@||t.email.argenta.be^
+@@||gvt2.com^
+@@||awstrack.me^
+@@||acompli.helpshift.com^
+
+10.0.0.40 *.cillin.pro
