@@ -35,3 +35,4 @@
 @@||awin1.com^
 @@||aliexpress.com^
 @@||f0456977.xsph.ru^
+@@||nextdns.io^
