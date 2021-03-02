@@ -37,3 +37,4 @@
 @@||f0456977.xsph.ru^
 @@||nextdns.io^
 @@||collectors.sumologic.com^
+@@||windscribe.com^
