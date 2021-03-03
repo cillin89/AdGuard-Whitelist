@@ -38,3 +38,4 @@
 @@||nextdns.io^
 @@||collectors.sumologic.com^
 @@||windscribe.com^
+@@||kenuvo.com^
